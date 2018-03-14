@@ -1,5 +1,5 @@
 # vimrc
-personal vimrc
+Support for PEP8 has been implemented, splitting of screen, moving between splits, folding and unfolding code
 
 # install instructions
 step 1: git clone vundle:
