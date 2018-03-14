@@ -1,5 +1,5 @@
 # vimrc
-Support for PEP8 has been implemented, splitting of screen, moving between splits, folding and unfolding code
+Support for PEP8 has been implemented, splitting of screen, moving between splits, folding & unfolding code, indenting for html, js and css.
 
 # install instructions
 step 1: git clone vundle:
@@ -8,6 +8,15 @@ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
 step 2: get VIMRC from this repo
+
+step 3: run these commands to install auto complete
+```
+cd ~/.vim/bundle
+git clone https://github.com/Valloric/YouCompleteMe.git
+cd YouCompleteMe
+git submodule update --init --recursive
+./install.sh --clang-completer
+```
 
 step 3: start vim and run :PluginInstall
 
