@@ -41,5 +41,8 @@ Ctrl-l | move to the split to the right
 Ctrl-h | move to the split to the left
 spacebar | Fold or unfold code(methods & classes)
 
+# TODO
+create a full list of all commands plus description
+
 # references
 https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
