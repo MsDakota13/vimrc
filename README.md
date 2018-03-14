@@ -11,11 +11,13 @@ step 2: get VIMRC from this repo
 
 step 3: run these commands to install auto complete
 ```
+sudo apt-get install build-essential cmake
+sudo apt-get install python-dev python3-dev
 cd ~/.vim/bundle
 git clone https://github.com/Valloric/YouCompleteMe.git
 cd YouCompleteMe
 git submodule update --init --recursive
-./install.sh --clang-completer
+./install.sh
 ```
 
 step 3: start vim and run :PluginInstall
