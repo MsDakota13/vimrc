@@ -28,6 +28,7 @@ Ctrl-j | move to the split below
 Ctrl-k | move to the split above
 Ctrl-l | move to the split to the right
 Ctrl-h | move to the split to the left
+spacebar | Fold or unfold code(methods & classes)
 
 # references
 https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
