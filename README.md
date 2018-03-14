@@ -23,15 +23,11 @@ Open a file and split Horizontal:
 ```
 
 key combination | description
+--- | ---
 Ctrl-j | move to the split below
 Ctrl-k | move to the split above
 Ctrl-l | move to the split to the right
 Ctrl-h | move to the split to the left
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 # references
 https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
