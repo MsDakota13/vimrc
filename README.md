@@ -13,6 +13,7 @@ step 3: run these commands to install auto complete
 ```
 sudo apt-get install build-essential cmake
 sudo apt-get install python-dev python3-dev
+pip3 install flake8
 ```
 
 step 4: start vim and run :PluginInstall
