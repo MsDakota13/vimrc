@@ -47,7 +47,9 @@ spacebar | Fold or unfold code(methods & classes)
 
 # TODO
 create a full list of all commands plus description for vim
+
 create a full list of all commands plus description tmux
+
 integration between tmux and vimrc
 
 # references
