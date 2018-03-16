@@ -1,7 +1,7 @@
 # vimrc
 Support for PEP8 has been implemented, splitting of screen, moving between splits, folding & unfolding code, indenting for html, js and css.
 
-# install instructions
+# Install instructions
 step 1: git clone vundle:
 ```
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
@@ -20,9 +20,11 @@ git submodule update --init --recursive
 ./install.sh
 ```
 
-step 3: start vim and run :PluginInstall
+step 4: start vim and run :PluginInstall
 
-# commands
+step 5: downlod .tmux.conf from this repo iftmux configuration is wished on the machine
+
+# Commands VIM
 Open a file and split vertical:
 ```
 :sp <file>
@@ -41,8 +43,13 @@ Ctrl-l | move to the split to the right
 Ctrl-h | move to the split to the left
 spacebar | Fold or unfold code(methods & classes)
 
+# Commands TMUX
+
 # TODO
-create a full list of all commands plus description
+create a full list of all commands plus description for vim
+create a full list of all commands plus description tmux
+integration between tmux and vimrc
 
 # references
 https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
+https://www.youtube.com/watch?v=Lqehvpe_djs
