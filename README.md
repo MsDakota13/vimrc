@@ -13,6 +13,7 @@ step 3: run these commands to install auto complete
 ```
 sudo apt-get install build-essential cmake
 sudo apt-get install python-dev python3-dev
+sudo apt install python3-pip
 pip3 install flake8
 ```
 
