@@ -18,7 +18,7 @@ pip3 install flake8
 
 step 4: start vim and run :PluginInstall
 
-step 5: downlod .tmux.conf from this repo iftmux configuration is wished on the machine
+step 5: downlod .tmux.conf from this repo if TMUX configuration is wished on the machine
 
 # Commands VIM
 Open a file and split vertical:
@@ -207,4 +207,7 @@ integration between tmux and vimrc
 
 # references
 https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
+
 https://www.youtube.com/watch?v=Lqehvpe_djs
+
+https://gist.github.com/andreyvit/2921703
